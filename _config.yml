@@ -74,6 +74,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/dharmin007"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/540189/dharmin007?tab=topactivity"
 
 footer:
   links:
@@ -88,6 +91,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+words_per_minute: 140
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-68424109-1"
+    anonymize_ip: false # default
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: 285437838796304
+    num_posts: 5
+    colorscheme: "light"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
