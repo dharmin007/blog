@@ -18,7 +18,7 @@ name: Dharmin Majmudar
 email: dharmin007@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Dharmin Majmudar, an Android dev at heart since 2010 and a tinkerer of
-  various software techologies in free time 😀
+  various software technologies in free time 😀
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dharmin.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
@@ -59,7 +59,7 @@ author:
   name     : "Dharmin Majmudar"
   avatar   : "/assets/img/bio-pic.jpeg"
   bio      : "This is Dharmin Majmudar, an Android dev at heart since 2010 and a tinkerer of
-  various software techologies in free time 😀"
+  various software technologies in free time 😀"
   location : "San Francsico Bay Area" 
   links:
     - label: "Email"
